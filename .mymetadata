@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xxxCrawl"
+  id="myeclipse.1442367606588"
+  context-root="/xxxCrawl"
+  j2ee-spec="5.0"
+  archive="xxxCrawl.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
